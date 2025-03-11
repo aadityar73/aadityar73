@@ -15,7 +15,7 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-  📄 <a href="https://drive.google.com/file/d/12y33iLMrwFkeZEvf05yrEiizY8bspGR_/view?usp=sharing" target="_blank">View My Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1OeE55LBWEbKB3CxicUxfHl_ORkXeWkff/view?usp=sharing" target="_blank">View My Resume</a>
 </p>
 
 ###
